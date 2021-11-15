@@ -1,0 +1,356 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erimu</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="../css/style.css">
+
+
+</head>
+<body>
+    <header>
+    
+    <div class="container-fluid p-0">
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">ERIMU</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                  <div class="mr-auto"></div>
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                
+                  <li>
+                  <a class="nav-link" href="#">About us</a>
+                  </li>
+                  <li>
+                    <a class="nav-link" href="#">Services</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                      <div class="dropdown">
+                           <a href="#" class="nav-link">Offices</a>
+                           <div class="dropdown-content">
+                               <a href="#">Kampala</a>
+                               <a href="#">Entebbe</a>
+                               <a href="#">lugogo</a>
+                               <a href="#">Namugongo</a>
+                           </div>
+                      </div>
+                    <a class="nav-link" href="#">Offices</a>
+                  </li>
+                  <li class="nav-item">
+                  <a class="nav-link" href="#">Kitchen</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Living Room</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Bedroom</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Dining</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Doors</a>
+                    </li>
+        
+                    
+                </ul>
+              </div>
+            </div>
+          </nav>
+    </div>
+
+
+
+
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-md-7 col-sm-12">
+                <h6>Test Products</h6>
+                <h1>EXCITING TIMBER</h1>
+                <p>Deserunt molit anim laborum exceptur sint dolor mecat cupidatan roident. Sunt culpa qui officia deserunt sit anim. Duis aue irure dolor ...</p>    
+            <button class="btn btn-light px-5 py-2">order now</button>
+            </div>
+            <div class="col-md-5 col-sm-12 h-25">
+                <img src="../src/assets/pic1.jpg" alt="Erimu">
+            </div>
+        </div>
+
+    </div>
+    </header>
+    <main>
+     <section class="section-1">
+         <div class="container text-center">
+             <div class="row"></div>
+         <div class="col-md-6">
+             <div class="pray">
+                 <img src="../src/assets/article02.jpg" alt="pray">
+             </div>
+         </div>
+         <div class="col-md-6">
+             <div class="panel text-left">
+                 <h1>Mr John Hummerhead</h1>
+                 <p>Erimu Company was established in 1992 as a Business venture to exploit the possibility of processing and manufacture of high quality wood products. Seven family members from the lineage of the Late Eridad Mukasa founded it. The Company was fully registered in 1995 as required by the Company Act of 1985, as ERIMU Company Limited. Two of the members of the Board are the active shareholders/ Directors and their respective positions.</p>
+                 <p></p>
+                </div>
+                    <h1>2345</h1>
+                    <p>Happy Client</p>
+                </div>
+                <div class="rect">
+                    <h1>6784</h1>
+                    <p>Cups Coffee</p>
+                </div>
+                <div class="rect">
+                    <h1>1056</h1>
+                    <p>tickets submitted</p>
+                </div>
+            
+               </div>
+           </div>
+           <div class="purchase text-center">
+               <h1>Purchase whateva you want here</h1>
+               <p>tfjkjh jhllkj jho;llkpo kjpokpiou kjpoojhguy ihygtydukuli 
+                   uyiijo huio;k ioip;k 
+               </p>
+
+            <!-- First card-->
+                <div class="cards">
+                   <div class="d-flex flex-row justify-content-center flex-wrap">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="title">
+                                <h5 class="card-title">PDF</h5>
+                            </div>
+                            <p class="card.text">rytuhitr rtyfuguhjiiugf rdrtfyughmhg rftgyuft yuuiuy </p>
+                            <div class="pricing">
+                                <h1>$$$</h1>
+                                <a href="#" class="btn btn-dark px-5 py-2 mb-5">Purchase Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- second card-->
+                
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="title">
+                                <h5 class="card-title">PDF</h5>
+                            </div>
+                            <p class="card.text">rytuhitr rtyfuguhjiiugf rdrtfyughmhg rftgyuft yuuiuy </p>
+                            <div class="pricing">
+                                <h1>$$$</h1>
+                                <a href="#" class="btn btn-dark px-5 py-2 mb-5">Purchase Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Third card-->
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="title">
+                                <h5 class="card-title">PDF</h5>
+                            </div>
+                            <p class="card.text">rytuhitr rtyfuguhjiiugf rdrtfyughmhg rftgyuft yuuiuy </p>
+                            <div class="pricing">
+                                <h1>$$$</h1>
+                                <a href="#" class="btn btn-dark px-5 py-2 mb-5">Purchase Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                l
+               </div>
+           </div>
+        </section>
+
+        <section class="section-3 container-fluid p-0 text-center">
+            <div class="row">
+             
+<div class="col-md-12 col-sm-12">
+    <h1>Download our app for all platforms</h1>
+      <p>tyugh tyufyghj tyugihij rtyuygh tfugyhui trfyguh stytg rtg 
+        gfffhjn yfghnk yjgbj tyuygh ytuuih rtyh tyuhn ttyyun trytb 
+        ghbn ytuyn trytyb rytb ybb ygub ytuy h vtyb tyu h nny yt 
+      </p>
+    </div>
+
+</div>
+    <div class="platform row">
+        <div class="col-md-6 col-sm-12 text-right">
+            <div class="desktop shadow-lg">
+                .d-flex <flex-row class="justify-content-center">
+                    <i class="fa-solid fa-desktop fa-3x py-2 pr-3"></i>
+                    <div class="text text-left">
+                        <h3 class="pt-1 m-0">Desktop</h3>
+                        <p class="p-0 m-0">On Website</p>
+                    </div>
+                </flex-row>
+            </div>
+        </div>
+        <div class="desktop shadow-lg">
+            .d-flex <flex-row class="justify-content-center">
+                <i class="fas fa-mobile-alt fa-3x py-2 pr-3"></i>
+                <div class="text text-left">
+                    <h3 class="pt-1 m-0">On Mobile</h3>
+                    <p class="p-0 m-0">On Play Store</p>
+                </div>
+            </flex-row>
+        </div>
+        <div class="col-md-6 col-sm-12 text-left"></div>
+    </div>
+        
+        </section>
+
+        <section class="section-4">
+            <div class="container text-center">
+                <h1 class="text-dark">What our Customers say about Us</h1>
+                <p class="text-secondary">Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                     Consequuntur voluptates ad quia tempore quae nisi sed? Accusamus, ut, 
+                     libero soluta dolor facilis autem eaque dolores doloremque, magnam repellat sit laborum.
+                </p>
+            </div>
+            <div class="team row">
+                <div class="col-md-4 col-12 text-center">
+                    <div class="card mr-2 d-inline-block shadow-lg"></div>
+                    <div class="card">
+                        <div class="card-img-top">
+                            <img src="../src/assets/templatemo_body.jpg" alt="member class=img-fluid">
+                        </div>
+                        <div class="card-body">
+                            <h3 class="card-title">Mayanja Gideon</h3>
+                            <p class="card-text">
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                                Molestiae repudiandae temporibus necessitatibus eveniet aspernatur. 
+                                Consequatur temporibus ratione sint dignissimos perferendis repellat fugit
+                                 voluptas quia quod. Quo deserunt facilis sapiente incidunt.
+                            </p>
+                                <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
+                            <p class="text-black-50">
+                                CEO at ERIMU
+                            </p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-4 col-12">
+                    
+                    <!--Carousel started-->
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                          <div class="carousel-item active text-center">
+                            <!--Card 2-->
+                            <div class="card mr-2 d-inline-block shadow-lg"></div>
+                               <div class="card">
+                                 <div class="card-img-top">
+                                  <img src="../src/assets/cs_rightImg.png" alt="member class=img-fluid">
+                                  </div>
+                                  <div class="card-body">
+                                  <h3 class="card-title">Drey Kali</h3>
+                                  <p class="card-text">
+                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                                     Molestiae repudiandae temporibus necessitatibus eveniet aspernatur. 
+                                  Consequatur temporibus ratione sint dignissimos perferendis repellat fugit
+                                 voluptas quia quod. Quo deserunt facilis sapiente incidunt.
+                                  </p>
+                                <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
+                            <p class="text-black-50"></p> CEO at ERIMU </p>
+                            </div>
+                          </div>
+                          <div class="carousel-item text-center">
+                          <!--Card 3-->
+                          <div class="card mr-2 d-inline-block shadow-lg"></div>
+                               <div class="card">
+                                 <div class="card-img-top">
+                                  <img src="../src/assets/cs_leftImg.jpg" alt="member class=img-fluid">
+                                  </div>
+                                  <div class="card-body">
+                                  <h3 class="card-title">Daniel Craig</h3>
+                                  <p class="card-text">
+                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                                     Molestiae repudiandae temporibus necessitatibus eveniet aspernatur. 
+                                  Consequatur temporibus ratione sint dignissimos perferendis repellat fugit
+                                 voluptas quia quod. Quo deserunt facilis sapiente incidunt.
+                                  </p>
+                                <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
+                            <p class="text-black-50"></p> CEO at ERIMU </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                </div>
+                <div class="col-md-4 col-12">
+
+                    <!--card 4-->
+                    <div class="card mr-2 d-inline-block shadow-lg"></div>
+                               <div class="card">
+                                 <div class="card-img-top">
+                                  <img src="../src/assets/cs_leftImg.jpg" alt="member class=img-fluid">
+                                  </div>
+                                  <div class="card-body">
+                                  <h3 class="card-title">Joshua Tobey</h3>
+                                  <p class="card-text">
+                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                                     Molestiae repudiandae temporibus necessitatibus eveniet aspernatur. 
+                                  Consequatur temporibus ratione sint dignissimos perferendis repellat fugit
+                                 voluptas quia quod. Quo deserunt facilis sapiente incidunt.
+                                  </p>
+                                <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
+                            <p class="text-black-50 text-center"></p> General Manager at ERIMU </p>
+                            </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+<div class="container-fluid p-0">
+    <div class="row text-left">
+<div class="col-md-5 row-cols-md-5">
+    <h1 class="text-light">About Us</h1>
+    <p class="text-muted">khjlhutfyghniu yuhjohgtn ygghi cctry yffyuun yighuiihgt tyui 6ghjij tygu</p>
+    <p class="pt-4 text-muted">Copyright @ 2019, All rights reserved, template made by <span>Joshua Tobey Wabulo</span></p>
+
+</div>
+<div class="col-md-5">
+    <h4 class="text-light">New Inventory</h4>
+    <p class="text-muted">Stay updated</p>
+    <form class="form-inline">
+        <div class="col pl-">
+            <div class="input-group pr-5">
+                input type="text" class="form-control bg-dark text-white" placeholder="Email">
+            
+            </div>
+        </div>
+    </form>
+</div>
+<div class="col-md-2"></div>
+    </div>
+</div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>         </div>
+
+         </div>
+
+     </section>
+     <section class="section-2 container-fluid p-0">
+         <div class="cover">
+             <div class="content text-center">
+                <h1>Some features that make us Unique</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid deleniti dicta adipisci fugit, quis unde dolores corrupti rerum ipsum, minus eligendi obcaecati, perspiciatis illo provident minima animi quos enim. Qui!</p>
+             </div>
+         </div>
+           <div class="container-fluid text-center">
+               <div class="numbers d-flex flex-md-row flex-wrap justify-content-center">
+                <div class="rect">
